@@ -1,0 +1,10 @@
+settings/
+.idea/
+venv/
+backup/
+*.txt
+*.csv
+*.bat
+*.padrao
+modules/config.py
+static/img
