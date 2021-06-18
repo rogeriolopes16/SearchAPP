@@ -1,6 +1,5 @@
 settings/
 .idea/
-venv/
 backup/
 *.txt
 *.csv
